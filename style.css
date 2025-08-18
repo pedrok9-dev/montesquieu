@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    margin-right: 5px;
+}
+
+body{
+    width: 390px;
+    height: 844px;
+    text-align: center;
+}
+
+.home{
+    font-size: 1.2rem;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
