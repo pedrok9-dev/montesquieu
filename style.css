@@ -7,16 +7,148 @@ nav a{
     text-decoration: none;
     color: black;
     margin-right: 5px;
+    font-size: 1.3rem;
+}
+.borda{
+    border-radius: 8px;
+    background-color: rgb(216, 174, 120);
+    padding: 3px 5px;
+    margin-right: 10px;
+}
+
+.borda2{
+    text-decoration: none;
+    font-size: 1.3rem;
+    color: black;
+    border-radius: 8px;
+    background-color: rgb(243, 191, 119);
+    padding: 3px 5px;
+    margin-right: 10px;
+}
+
+.borda3{
+    text-decoration: none;
+    font-size: 1.3rem;
+    color: black;
+    border-radius: 8px;
+    background-color: rgb(131, 122, 111);
+    padding: 3px 5px;
+    margin-right: 10px;
+}
+
+.borda4{
+    text-decoration: none;
+    font-size: 1.3rem;
+    color: black;
+    border-radius: 8px;
+    background-color: rgb(134, 95, 40);
+    padding: 3px 5px;
+    margin-right: 10px;
+}
+
+.borda5{
+    text-decoration: none;
+    font-size: 1.3rem;
+    color: black;
+    border-radius: 8px;
+    background-color: rgb(141, 95, 32);
+    padding: 3px 5px;
+    margin-right: 10px;
+}
+
+.entrevista{
+    width: 390px;
+    height: 844px;
+    text-align: center;
+    background-color: rgb(112, 87, 52);
+    }
+
+.noticias{
+    width: 390px;
+    height: 844px;
+    text-align: center;
+    background-color: rgb(196, 140, 63);
+}
+
+.editorial{
+    font-size: 1.2rem;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: Georgia;
+}
+
+.reportagem{
+    font-size: 1.2rem;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: Georgia;
+}
+
+.obras{
+    width: 390px;
+    height: 844px;
+    text-align: center;
+    background-color: rgb(190, 179, 164);
+}
+
+.Bio{
+    width: 390px;
+    height: 844px;
+    text-align: center;
+    background-color: rgb(255, 221, 173);
 }
 
 body{
     width: 390px;
     height: 844px;
     text-align: center;
-    background-color: antiquewhite;
+    background-color:antiquewhite
 }
 
 .home{
+    font-size: 1.2rem;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: Georgia;
+}
+
+.biografia{
+    font-size: 1.2rem;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: Georgia;
+}
+
+.mapa{
+    font-size: 1.0rem;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: Georgia;
+}
+
+.espiritos{
+    font-size: 1.2rem;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: Georgia;
+}
+
+.persas{
+    font-size: 1.2rem;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: Georgia;
+}
+
+.Templo{
     font-size: 1.2rem;
     text-align: justify;
     margin-left: 10px;
