@@ -61,7 +61,7 @@ nav a{
     height: 844px;
     text-align: center;
     background-color: rgb(112, 87, 52);
-    }
+}
 
 .noticias{
     width: 390px;
@@ -155,3 +155,43 @@ body{
     margin-right: 10px;
     font-family: Georgia;
 }
+
+.personagens{
+    text-align: justify;
+    font-size: 1.3rem;
+    font-family: Georgia;
+    font-weight: bold;
+}
+
+.falas{
+    font-size: 1.2rem;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: Georgia;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(129, 113, 91);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    font-size: 1.1rem;
+    color: white;
+    text-align: center;
+    padding: 12px 14px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
